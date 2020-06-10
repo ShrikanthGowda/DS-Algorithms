@@ -1,4 +1,4 @@
-package DS.DoublyLinkedList;
+package ds.doublyLinkedList;
 
 public class LinkedList {
 

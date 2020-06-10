@@ -1,4 +1,4 @@
-package DS.Queue;
+package ds.queue;
 
 public class Node {
 

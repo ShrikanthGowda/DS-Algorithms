@@ -1,4 +1,4 @@
-package DS.Array;
+package ds.array;
 import java.util.Arrays;
 
 public class ArrayOneDimension {

@@ -1,4 +1,4 @@
-package DS.Stack;
+package ds.stack;
 
 public class StackLinkedList {
 

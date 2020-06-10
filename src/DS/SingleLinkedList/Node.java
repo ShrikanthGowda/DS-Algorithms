@@ -1,4 +1,4 @@
-package DS.SingleLinkedList;
+package ds.singleLinkedList;
 
 public class Node {
 
