@@ -1,2 +1,2 @@
-# DS_Algorithms
+# DS Algorithms
 DS and Algorithms
